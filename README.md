@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton Petrov</h1>
-<h3 align="center">pyenv🐍core maintainer, ninja programmer, ML enthusiast, 🖤open source</h3>
+<h3 align="center">pyenv 🐍 core maintainer, ninja programmer, ML enthusiast, 💚 open source</h3>
 
 - 🔭 I’m currently working on [pyenv](https://github.com/pyenv/pyenv)
 
