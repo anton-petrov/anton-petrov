@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anton-petrov&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="anton-petrov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anton-petrov&show_icons=true&theme=cobalt&locale=en" alt="anton-petrov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anton-petrov&theme=dark" alt="anton-petrov" /></p>
